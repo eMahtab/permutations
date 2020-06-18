@@ -55,6 +55,7 @@ class Solution {
 ```
 
 ### If we are given a String 
+![String Permutations](string-permutations.JPG?raw=true "String Permutations")
 ```java
 public class Permutation {
 	public static void main(String[] args) {
