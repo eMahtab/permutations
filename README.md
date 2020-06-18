@@ -16,6 +16,7 @@ Output:
   [3,2,1]
 ]
 ```
+![Array Permutations](array-permutations.JPG?raw=true "Array Permutations")
 
 # Implementation :
 
