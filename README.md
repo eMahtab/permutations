@@ -18,7 +18,7 @@ Output:
 ```
 ![Array Permutations](array-permutations.JPG?raw=true "Array Permutations")
 
-# Implementation :
+# Implementation : Time = O(n * n!)
 
 ```java
 class Solution {
